@@ -1,0 +1,43 @@
+body {
+	font-family: 'Comic Sans MS';
+	background-color: #2f4050;
+}
+
+.navbar-nav li{
+	font-weight: bold;
+	font-family: 'Comic Sans MS';
+	font-size: 1.2em;
+}
+
+.line {
+	margin-top: -20px;
+}
+
+
+.col-sm-10{
+	background-color: #ffffff;
+}
+
+#side_menu a {
+	color: #9fb1c2;
+}
+#side_menu .active a{
+	color: #ffffff;
+	background-color: #27AAE1;
+	font-weight: bold;
+}
+#side_menu a:hover{
+	color: #ffffff;
+	background-color: #lab394;
+	font-weight: bold;
+	display: block;
+}
+
+
+#footer {
+		padding: 10px;
+		border-top: 1px solid black;
+		color: white; 
+		background-color: #211f22;
+		text-align: center;
+}
